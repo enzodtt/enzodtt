@@ -4,7 +4,7 @@ Développeur web logiciel en spécialisation **Intelligence Artificielle**.
 
 ## 🚀 À propos de moi
 - 💻 Je développe des applications web et logicielles
-- 🤖 Je me spécialise actuellement dans le développement IA
+- 🤖 Je me spécialise actuellement dans le développement logiciel et l'analyse DATA
 - 🌱 Toujours en train d'apprendre et d'explorer de nouvelles technos
 
 ## 🛠️ Technologies
